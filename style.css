@@ -181,7 +181,8 @@ body{
   width: 100%;
   padding: 20px;
   padding-top: 40px;
-  margin-top: 5%;
+  margin-top: -50px;
+  margin-left: 20px;
 }
 .ktk12{
   margin-top: 25px;
@@ -384,7 +385,7 @@ body{
 }
 .lgt4{
   position: absolute;
-  margin-top: -21%;
+  margin-top: -185px;
   color: #fff;
   margin-left: 30px;
 }
